@@ -1,7 +1,7 @@
 // 'use client';
 
 // import { useState } from 'react';
-import Services from "./services/page";
+import Services from "@/components/services";
 export default function Home() {
   // const [currentTestimonial, setCurrentTestimonial] = useState(0);
 
