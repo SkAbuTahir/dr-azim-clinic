@@ -107,7 +107,7 @@ const services = [
   }
 ];
 
-  export default function Services() {
+export default function Services() {
   const [expandedCard, setExpandedCard] = useState(null);
   const [hoveredCard, setHoveredCard] = useState(null);
 
